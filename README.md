@@ -1,2 +1,2 @@
-# javaTutorial
+# java.tutorial
 java example
